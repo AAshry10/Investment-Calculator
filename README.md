@@ -22,7 +22,7 @@ A small React practice project (Udemy “React Essentials”) that calculates an
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run the App](#Run)
-- [Project Structure](#Structure)
+- [Project Structure](#project-structure)
 - [License](#License)
 
 ---
@@ -88,8 +88,7 @@ Run the project with:
 
 --- 
 
-
-### 🏗️Structure
+## 🏗️Prooject Structure
 
 ```sh
 └── 01-starting-project/
