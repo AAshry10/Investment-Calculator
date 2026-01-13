@@ -93,7 +93,7 @@ Run the project with:
 ## 🏗️Prooject Structure
 
 ```sh
-└── Udemy-React-Course-Practice-Project-1/
+└── Investment-Calculator/
     ├── public/
     ├── src/
     │   ├── Components/
