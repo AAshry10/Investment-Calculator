@@ -22,7 +22,6 @@ A small React practice project (Udemy “React Essentials”) that calculates an
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run the App](#run-the-app)
-- [Scripts](#scripts)
 - [Project Structure](#project-structure)
 
 ---
@@ -76,7 +75,7 @@ It then renders a results table showing the yearly breakdown.
     npm install
    ```
 
-### Usage
+### run-the-app
 
 Run the project with:
 
