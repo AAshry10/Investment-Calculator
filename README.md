@@ -4,6 +4,11 @@
 
 # React Practice — Investment Calculator
 
+Concepts : 
+- Components
+- Props
+- State
+
 A small React practice project (Udemy “React Essentials”) that calculates and displays yearly investment growth based on user inputs.
 
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black" alt="React">
