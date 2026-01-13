@@ -22,7 +22,7 @@ A small React practice project (Udemy “React Essentials”) that calculates an
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run the App](#Run)
-- [Project Structure](#🏗️Structure)
+- [Project Structure](#Structure)
 - [License](#License)
 
 ---
@@ -67,7 +67,7 @@ It then renders a results table showing the yearly breakdown.
 2. **Navigate to the project directory:**
 
     ```sh
-     cd Ashry-Portfolio
+     cd 01-starting-project
     ```
 
 3. **Install the dependencies:**
@@ -89,7 +89,7 @@ Run the project with:
 --- 
 
 
-## 🏗️Structure
+### 🏗️Structure
 
 ```sh
 └── 01-starting-project/
