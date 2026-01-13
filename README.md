@@ -2,7 +2,7 @@
 
 <div align="left">
 
-# React Essentials Practice — Investment Calculator
+# React Practice — Investment Calculator
 
 A small React practice project (Udemy “React Essentials”) that calculates and displays yearly investment growth based on user inputs.
 
