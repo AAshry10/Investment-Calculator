@@ -55,7 +55,7 @@ It then renders a results table showing the yearly breakdown.
 
 ### Prerequisites
 
-- **Node.js** (LTS recommended)
+- **Node.js** 
 - **npm** (comes with Node)
 
 ### Installation
